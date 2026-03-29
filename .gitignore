@@ -1,0 +1,19 @@
+# Data files (too large for git)
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor snapshots
+snapshots/
+
+# OS
+.DS_Store
+
+# UV lock (reproducible via pyproject.toml)
+uv.lock

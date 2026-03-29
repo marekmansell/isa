@@ -1,0 +1,16 @@
+[project]
+name = "isa-project-1"
+version = "0.1.0"
+description = "ISA Mini-project 1: Collaborative Filtering on Goodreads Poetry"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter",
+    "pandas",
+    "numpy<2",
+    "scipy",
+    "scikit-learn",
+    "scikit-surprise",
+    "matplotlib",
+    "seaborn",
+    "tqdm",
+]
